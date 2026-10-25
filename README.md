@@ -1,5 +1,11 @@
 # Web-based Database Automation System (DAS)
 
+*Multi-phase web-based database automation system — from basic data management to advanced analytics; JavaScript.*
+
+![category](https://img.shields.io/badge/category-data-engineering-10B981?style=flat-square) ![language](https://img.shields.io/badge/language-JavaScript-2563EB?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-16A34A?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-dormant-D97706?style=flat-square) ![repo](https://img.shields.io/badge/repo-web--based--database--automation--system-111827?style=flat-square)
+
+---
+
 A multi-phase web-based database automation system that evolves from basic data management to advanced analytics and spatial visualization.
 
 ## Features
@@ -50,7 +56,7 @@ A multi-phase web-based database automation system that evolves from basic data 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bucky-ops/web-based-database-automation-system.git
+   git clone https://github.com/collins-muchiri/web-based-database-automation-system.git
    cd web-based-database-automation-system
    ```
 
